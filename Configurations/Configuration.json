@@ -1,0 +1,20 @@
+{
+  "DisplaySettings": {
+    "Scale":20,
+    "BackgroundColor": {
+      "R": 0,
+      "G": 52,
+      "B": 5,
+      "A": 255
+    },
+    "ForegroundColor": {
+      "R": 3,
+      "G": 205,
+      "B": 45,
+      "A": 255
+    }
+  },
+  "DefaultRomPath": "",
+  "BeepSoundPath": "",
+  "Debug": true
+}
